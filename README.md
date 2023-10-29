@@ -31,7 +31,7 @@ TODO:
 - firebase-admin 9.2.0
 
 ## Author 
-[Addin](www.linkedin.com/in/addinul-kintangi)
+[Addin - LinkedIn](www.linkedin.com/in/addinul-kintangi)
 
 ## Acknowledgements
 * https://firebase.google.com/docs/remote-config/automate-rc
